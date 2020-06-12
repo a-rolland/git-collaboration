@@ -3,3 +3,5 @@ eat
 sleep
 code
 repeat
+play video games
+eat pizza
